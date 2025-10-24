@@ -49,15 +49,6 @@ I see open source as a digital yajna — a collective offering of intelligence.
 
 ---
 
-### 📚 Currently Exploring
-
-- Flutter app architecture (from scratch)
-- Smarter cron-driven workflows in FastAPI
-- Open-source tools for team productivity
-- Ways to teach mridanga rhythmically to groups 🥁
-
----
-
 ### 🛠️ My Development Principles
 
 - Build for **clarity**, not complexity  
@@ -70,10 +61,9 @@ I see open source as a digital yajna — a collective offering of intelligence.
 ### 🌐 Connect
 
 - 🕸️ [ISKCON Pune BCEC Website](https://iskconpunebcec.com)
-- 💼 [LinkedIn](#) _(optional — add if you have one)_
 - 💬 Discussions welcome on open-source temple tech, ERPNext automation, or spiritual productivity
 
 ---
 
 > "_Code when it’s time to code. Chant when it’s time to chant._"  
-> – Yash
+> – ChatGPT (?)
